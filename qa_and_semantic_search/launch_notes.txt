@@ -1,0 +1,1 @@
+To lunch the streamlit app use: "streamlit run qa_app.py"
